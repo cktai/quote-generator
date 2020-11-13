@@ -1,5 +1,7 @@
 # Random Quote Generator
 
+![](cap.jpg)
+
 - The btn class. "quote-btn", will apply night mode classs when we toggle the button by triggering a "night-mode-js" function 
 
 - The container is set to be responsive and it is set to be max-width of 700 pixels and a min-width of 350 pixels. 
